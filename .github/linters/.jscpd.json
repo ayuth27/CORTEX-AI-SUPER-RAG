@@ -1,0 +1,12 @@
+{
+  "threshold": 0,
+  "reporters": ["consoleFull"],
+  "ignore": [
+    "**/node_modules/**",
+    "**/.git/**",
+    "**/.venv/**",
+    "**/dist/**",
+    "**/build/**",
+    "**/*.svg"
+  ]
+}
